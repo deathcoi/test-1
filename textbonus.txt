@@ -1,0 +1,3 @@
+them text3.txt
+line 2
+sua file txt3
