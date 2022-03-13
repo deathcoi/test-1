@@ -1,2 +1,4 @@
 add new file txt
 them dong 2 (conflict)
+sua dong 2 
+
